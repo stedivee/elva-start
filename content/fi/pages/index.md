@@ -1,14 +1,19 @@
 ---
-title: Home
+title: Koti
 layout: home
 tags: _home
 seo:
   slug: /
-  title: Stedis home base for Eleventy
-  description: I'm using Elva starter theme for Eleventy
+  title: Stedin koti Eleventyllä leikkimiseen
+  description: Käytön kokeeksi Elva starter teemaa Eleventylle
+eleventyNavigation:
+  key: Koti
+  title: Koti
+  order: 1
 ---
 
-Just a simple guy trying to learn some new things in Web Development. Maybe I will learn something? <br>
-Sure, I've learned a lot already :)
+Täällä vain yksinkertainen heppu opettelemassa uusia asioita Web-kehityksessä. 
+Opinkohan enää mitään?
+Toki,olenhan jo oppinutkin paljon :)
 
-My Finnish blog is here: [teuvovaisanen.fi](https://teuvovaisanen.fi). 
+Suomenkielinen blogini on täällä: [teuvovaisanen.fi](https://teuvovaisanen.fi). 
