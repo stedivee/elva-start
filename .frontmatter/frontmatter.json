@@ -1,0 +1,53 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.contentHealth.enabled": true,
+  "frontMatter.contentHealth.checkExternalLinks": true,
+  "frontMatter.contentHealth.freshnessThreshold": 180,
+  "frontMatter.contentHealth.minReadability": 40,
+  "frontMatter.framework.id": "11ty",
+  "frontMatter.preview.host": "http://localhost:8080",
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.git.enabled": true,
+  "frontMatter.templates.enabled": false,
+  "frontMatter.content.fmHighlight": false,
+  "frontMatter.taxonomy.seoDescriptionField": "seo.description",
+  "frontMatter.templates.prefix": "",
+  "frontMatter.taxonomy.dateFormat": "YYYY-MM-DD",
+  "frontMatter.experimental": true,
+  "frontMatter.content.filters": ["contentFolders", "tags"],
+  "frontMatter.snippets.wrapper.enabled": false,
+  "frontMatter.content.publicFolder": {
+    "path": "content",
+    "relative": false
+  },
+  "frontMatter.extensibility.scripts": [
+    "[[workspace]]/.frontmatter/ui/image.js"
+  ],
+  "frontMatter.panel.actions.disabled": [
+    "optimizeSlug",
+    "createContent",
+    "preview"
+  ],
+  "frontMatter.global.activeMode": "",
+  "frontMatter.global.modes": [
+    {
+      "id": "Minimal",
+      "features": [
+        "panel.metadata",
+        "panel.actions",
+        "dashboard.data.view",
+        "dashboard.snippets.view"
+      ]
+    }
+  ],
+  "frontMatter.custom.scripts": [
+    {
+      "title": "Preview in browser",
+      "script": ".frontmatter/scripts/preview.js"
+    },
+    {
+      "title": "Generate open graph image",
+      "script": ".frontmatter/scripts/opengraph.js"
+    }
+  ]
+}
