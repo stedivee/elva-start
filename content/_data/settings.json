@@ -3,10 +3,10 @@
     "themeColorDark": "#2e3440",
     "cdn": false,
     "author": {
-        "name": "Scott Evans",
-        "email": "noreply@example.com",
-        "url": "https://scott.ee",
-        "location": "Stockholm, Sweden",
+        "name": "Teuvo Väisänen",
+        "email": "teuvo@teuvovaisanen.fi",
+        "url": "https://teuvovaisanen.fi",
+        "location": "Helsinki, Finland",
         "fediverseProfile": "https://toot.scott.ee/@scott",
         "fediverseUsername": "@scott@toot.scott.ee",
         "githubProfile": "https://github.com/scottsweb"
