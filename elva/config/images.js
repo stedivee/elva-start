@@ -14,7 +14,7 @@ export default (eleventyConfig) => {
     //    eleventyConfig.on('eleventy.after', () => {
     //        fs.cpSync('.cache/@11ty/img/', path.join(eleventyConfig.directories.output, '/assets/img/'), { recursive: true });
      //   });
-    }
+    //}
     
 
     return {
