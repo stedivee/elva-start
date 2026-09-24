@@ -14,7 +14,10 @@
   "frontMatter.templates.prefix": "",
   "frontMatter.taxonomy.dateFormat": "YYYY-MM-DD",
   "frontMatter.experimental": true,
-  "frontMatter.content.filters": ["contentFolders", "tags"],
+  "frontMatter.content.filters": [
+    "contentFolders",
+    "tags"
+  ],
   "frontMatter.snippets.wrapper.enabled": false,
   "frontMatter.content.publicFolder": {
     "path": "content",
@@ -48,6 +51,42 @@
     {
       "title": "Generate open graph image",
       "script": ".frontmatter/scripts/opengraph.js"
+    }
+  ],
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "Pages",
+      "path": "[[workspace]]/content/en/pages",
+      "defaultLocale": "en",
+      "previewPath": null,
+      "locales": [
+        {
+          "title": "English",
+          "locale": "en"
+        },
+        {
+          "title": "Svensk",
+          "locale": "sv",
+          "path": "../../sv/pages/"
+        }
+      ]
+    },
+    {
+      "title": "Posts",
+      "path": "[[workspace]]/content/en/posts",
+      "defaultLocale": "en",
+      "previewPath": null,
+      "locales": [
+        {
+          "title": "English",
+          "locale": "en"
+        },
+        {
+          "title": "Svensk",
+          "locale": "sv",
+          "path": "../../sv/posts/"
+        }
+      ]
     }
   ]
 }
