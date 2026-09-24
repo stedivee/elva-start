@@ -11,4 +11,4 @@ seo:
 Just a simple guy trying to learn some new things in Web Development. Maybe I will learn something? <br>
 Sure, I've learned a lot already :)
 
-My Finnish blog is here: [teuvovaisanen.fi](https://teuvovaisanen.fi)
+My Finnish blog is here: [teuvovaisanen.fi](https://teuvovaisanen.fi). 
