@@ -7,7 +7,8 @@ export default (eleventyConfig) => {
     let outputdir = { outputDir: path.join(eleventyConfig.directories.output, '/assets/img/') }
 
     // cache images for faster builds
-    if (process.env.ELEVENTY_RUN_MODE === 'build' && !cdnify) {
+    //if (process.env.ELEVENTY_RUN_MODE === 'build' && !cdnify) 
+    {
         outputdir.outputDir = '.cache/@11ty/img/';
 
         eleventyConfig.on('eleventy.after', () => {
