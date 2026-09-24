@@ -4,13 +4,6 @@
         "label": "English",
         "shorthand": "EN",
         "locale": "en-gb",
-        "default": false
-    },
-    "fi": {
-        "label": "Suomi",
-        "locale": "fi",
-        "shorthand": "FI",
-        "dir": "ltr",
         "default": true
     }
 }
