@@ -63,11 +63,6 @@
         {
           "title": "English",
           "locale": "en"
-        },
-        {
-          "title": "Svensk",
-          "locale": "sv",
-          "path": "../../sv/pages/"
         }
       ]
     },
@@ -80,11 +75,7 @@
         {
           "title": "English",
           "locale": "en"
-        },
-        {
-          "title": "Svensk",
-          "locale": "sv",
-          "path": "../../sv/posts/"
+        }
         }
       ]
     }
