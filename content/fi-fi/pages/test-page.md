@@ -9,4 +9,12 @@ eleventyNavigation:
     title: Testisivu
     order: 2
 ---
-Oooh, tämä on testisuvu, suomeksi
+Oooh, tämä on testisuvu, suomeksi. 
+
+Toimiiko Loops-linkki sellaisenaan upotuksena?
+
+https://loops.video/v/hVL918faiJ 
+
+No ei
+
+
