@@ -1,7 +1,6 @@
 ---
 title: Startti - taas kerran
 date: 2026-09-25
-draft: true
 layout: post
 tags:
     - _search
