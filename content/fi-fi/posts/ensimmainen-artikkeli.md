@@ -18,7 +18,7 @@ Mikä on Eleventy ts. uudelta nimeltään Build Awesome? Luepa siitä: [https://
 
 ### Elva - mainio aloitusteema Eleventyyn ###
 
-Elva löytyy Eleventyn sivuilta monien aloitusprojektien joukosta. Jokin siinä heti tuntui hyvältä, oli hyvä intuitio. Nyt kun olen sen kanssa testaillut, niin olen vakuuttunut siitä, että tämä kehittyy vielä erinomaiseksi. Siis, tämähän pyörii Eleventyn 4 alpha-version päällä, virallinen tuotannossa oleva versio taitaa olla 3.1.6 tms. Ollaan bleeding edge vähän samaan tapaan kuin somekotona [Mementomori.social](https://mementomori.social):issa.
+Elva löytyy Eleventyn sivuilta monien aloitusprojektien joukosta. Jokin siinä heti tuntui hyvältä, oli hyvä intuitio. Nyt kun olen sen kanssa testaillut, niin olen vakuuttunut siitä, että tämä kehittyy vielä erinomaiseksi. Siis, tämähän pyörii Eleventyn 4 alpha-version päällä, virallinen tuotannossa oleva versio taitaa olla 3.1.6 tms. Ollaan bleeding edge vähän samaan tapaan kuin "kotisomessa" [Mementomori.social](https://mementomori.social){:target="_blank"}:issa.
 
 Minua viehätti jotenkin designin yksinkertaisuus ja sen harmonisuus. Kun tutustuin tarkemmin tekijän ajatuksiin, huomasin allekirjoittavani monen asian itsekin. 
 
@@ -51,7 +51,7 @@ Niin, jospa olisikin vain tämä Eleventy ja se Elva opiskeltavana, mutta olen o
 
 - Markdown
 - Front Matter 
-- Minulle uudet HTML, CSS ja JavaScript -asiat 
+- Minulle viime vuosien uudet HTML, CSS ja JavaScript -asiat 
 - Git (Github ja Codeberg)
 - Visual Studio Code ja VSCodium 
 - Jamstack -tyylinen sivuston hostaus ja julkaisu
