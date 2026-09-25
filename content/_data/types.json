@@ -6,10 +6,7 @@
         "searchable": true,
         "feed": true,
         "layout": "post",
-        "locales": {
-            "en": "documentation",
-            "sv": "dokumentation"
-        }
+        "locales": {}
     },
     "pages": {
         "label": "Pages",
