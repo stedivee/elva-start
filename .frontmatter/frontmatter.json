@@ -76,8 +76,15 @@
           "title": "English",
           "locale": "en"
         }
-        }
       ]
+    },
+    {
+      "title": "pages (Suomi)",
+      "path": "[[workspace]]/content/fi-fi/pages"
+    },
+    {
+      "title": "posts (Suomi)",
+      "path": "[[workspace]]/content/fi-fi/posts"
     }
   ]
 }
