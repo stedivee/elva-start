@@ -24,7 +24,7 @@ Minua viehätti jotenkin designin yksinkertaisuus ja sen harmonisuus. Kun tutust
 
 [Elva - A multilingual, clean, green 11ty starter theme. ](https://scott.ee/project/elva/) 
 
-Vaikka aikoinaan olin webmasterina ja opetin frontend-juttuja mm. Tieturilla, niin paljon on uusia juttuja tullut. Kehitys kehittyy.  Elvassa CSS on uskomattoman hienon konseptin takana. 
+Vaikka aikoinaan olin webmasterina ja opetin frontend-juttuja mm. Tieturilla, niin paljon on uusia juttuja tullut. Kehitys kehittyy. Elvassa CSS on uskomattoman hienon konseptin takana. 
 Kun olen lukenut ja hieman perehtynyt siihen, niin täytyy sanoa, olen aivan pähkinöinä. Kyllä tuo responsiivisuus on ottanut askeleita siitä, kun viimeksi CSS-kurssin olen pitänyt.
 
 [https://utopia.fyi/](https://utopia.fyi/)
