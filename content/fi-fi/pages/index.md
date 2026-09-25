@@ -4,7 +4,7 @@ layout: page
 tags: _home
 seo:
   slug: /
-  title: Stedin kiti Eleventyllä leikkimiseen
+  title: Stedin koti Eleventyllä leikkimiseen
   description: Käytän Elva starter teemaa Eleventylle
 eleventyNavigation:
   key: Koti
