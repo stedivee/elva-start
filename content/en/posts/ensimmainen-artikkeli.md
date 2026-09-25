@@ -7,4 +7,3 @@ layout: post
 
 Let's put an image here
 ![Screenshot of elva in VSCodium and the browser.](/assets/img/screenshots.png)
-.
