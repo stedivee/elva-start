@@ -10,9 +10,9 @@
         "locale": "en"
       },
       {
-        "title": "Svensk",
-        "locale": "sv",
-        "path": "../../sv/pages/"
+        "title": "Suomi",
+        "locale": "fi-fi",
+        "path": "../../fi/pages/"
       }
     ]
   }

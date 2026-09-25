@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "title": "Stedi",
+        "rssTitle": "RSS-syöte",
+        "jsonTitle": "JSON-syöte",
+        "blogrollTitle": "Blogirolla",
+        "description": "Stedin harjoittelupaikka",
+        "opengraphDefaultAlt": "Suomenkielinen selite oletusarvoisesta opengraph imagesta"
+    },
+    "header": {
+        "skipLink": "Siirry sisältöön",
+        "home": "Koti"
+    },
+    "readingTime": {
+        "underMinute": "Alle minuutin lukuaika",
+        "count": {
+            "one": "Lukuaika {{ minutes }} minuutti",
+            "other": "Lukuaika {{ minutes }} minuuuttia"
+        }
+    },
+    "feeds": {
+        "info": "Tämä on RSS-syöte. Kopioi se RSS-lukijaohjelmaasi, niin voit seurata sivuston artikkelien julkaisua etäsä lukijaohjelmastasi. Lue lisää <a href=\"https://aboutfeeds.com\"> Tieoja RSS-syötteestä</a>.",
+        "title": "Äskettäin julkaistu"
+    },
+    "tags": {
+        "tagged": "Aihetunniste",
+        "description": "Kaikki aihetunnisteen sisältö:"
+    },
+    "dark": "Tumma",
+    "light": "Vaalea",
+    "lightDarkToggle": "Vaihda tumma/vaalea teema",
+    "footer": "Eletään vuodessa {{ year }}.",
+    "search": {
+        "placeholder": "Haku",
+        "submit": "Hae"
+    }
+}
