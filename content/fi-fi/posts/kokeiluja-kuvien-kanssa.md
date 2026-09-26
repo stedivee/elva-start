@@ -12,4 +12,4 @@ https://youtu.be/0J-StFyEbV0?si=REz0gOi2PIvxluEU
 
 Ehkä tänään opiskelen enempikin noita snippet-juttuja.
 
-Tosin taitaa olla vielä muutama sivuston konffijuttu, jota en ole tehnyt tai tiennyt olevan olemassakaan. RSS:n URLin sain korjattua., se oli jäänyt ohjeista huomaamatta tai ymmärtämättä.
+Tosin taitaa olla vielä muutama sivuston konffijuttu, jota en ole tehnyt tai tiennyt olevan olemassakaan. RSS:n URLin sain korjattua, se oli jäänyt ohjeista huomaamatta tai ymmärtämättä.
