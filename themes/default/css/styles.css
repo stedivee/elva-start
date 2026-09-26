@@ -292,8 +292,8 @@ body {
     font-family: var(--font-headings);
     flex-direction: column;
     font-weight: 500;
-    background-color: var(--background-soft); /* säätö */
-    border-bottom: 1px solid var(--divider); /* säätö */
+    background-color: var(--nord5);  /*säätö */
+    border-bottom: 3px dotted var(--nord4); /* säätö */
 }
 
 @media (min-width: 600px) {
