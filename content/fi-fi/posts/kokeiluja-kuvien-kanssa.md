@@ -1,5 +1,5 @@
 ---
-title: Kokeiluja kuvien kanssa
+title: Kokeiluja kuvien kanssa ym.
 date: 2026-09-26
 layout: post
 ---
@@ -10,3 +10,6 @@ No niin, kuvia. Pohdin tässä mikä on oikea tapa tuoda kuvia VS Codella ja Fro
 Snippetit vaikuttavat käteviltä, niistä on informatiivinen videokin olemassa. 
 https://youtu.be/0J-StFyEbV0?si=REz0gOi2PIvxluEU 
 
+Ehkä tänään opiskelen enempikin noita snippet-juttuja.
+
+Tosin taitaa olla vielä muutama sivuston konffijuttu, jota en ole tehnyt tai tiennyt olevan olemassakaan. RSS:n URLin sain korjattua.
