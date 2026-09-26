@@ -48,7 +48,7 @@ export default async function(eleventyConfig) {
 
     eleventyConfig.addGlobalData('settings', {
         // these get merged with content/_data/settings.js
-        url: process.env.URL || process.env.CF_PAGES_URL || 'http://localhost:8080',
+        url: process.env.URL || process.env.CF_PAGES_URL || 'https://stedi.rocks',
         isProduction: process.env.NODE_ENV === 'production',
         isStaging: (process.env.URL && process.env.URL.includes('github.io')) || (process.env.CF_PAGES_BRANCH && process.env.CF_PAGES_BRANCH !== 'main') || (process.env.NODE_ENV === 'staging') || false,
         year: new Date().getFullYear(),

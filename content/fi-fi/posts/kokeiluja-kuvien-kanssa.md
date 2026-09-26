@@ -9,3 +9,4 @@ No niin, kuvia. Pohdin tässä mikä on oikea tapa tuoda kuvia VS Codella ja Fro
 
 Snippetit vaikuttavat käteviltä, niistä on informatiivinen videokin olemassa. 
 https://youtu.be/0J-StFyEbV0?si=REz0gOi2PIvxluEU 
+
