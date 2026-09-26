@@ -1,12 +1,14 @@
 ---
-title: "Kokeilussa Jolla C2 - SailfishOS puhelin"
+title: Kokeilussa Jolla C2 - SailfishOS puhelin
 date: 2026-09-08
-categories: 
-  - "ict"
-tags: 
-  - "jolla"
-  - "sailfish_os"
-coverImage: "Rivi-matkapuhelimia-scaled.jpg"
+categories:
+  - ict
+tags:
+  - jolla
+  - sailfish_os
+  - _search
+coverImage: Rivi-matkapuhelimia-scaled.jpg
+layout: post
 ---
 
 Kuinkas ollakaan, sain hieman yllättäen hankittua Jolla C2-puhelimen, käytettynä. Olin jo aiemmin tänä vuonna kokeillut SailfishOS-puhelinta, kun asentelin käyttöjärjestelmän vaimolta lainattuun Sony Xperia 10 III -puhelimeen. Niin, ja olihan minulla aikoinaan Nokia N9 Meego-puhelin, joten jollain tavalla tämä oli etukäteen tuttua kauraa.
@@ -27,4 +29,3 @@ Samaan aikaan sattumalta osui toinenkin kännykkäkokeilu, [kun asentelin vanhaa
 
 Saas nähdä kuinka sekaisin sitä menee ;)
 
-###### Fediversumi -reaktiot

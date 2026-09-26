@@ -1,15 +1,17 @@
 ---
-title: "Valokuvien siirto Googlesta Eurooppaan - Pixelunion"
+title: Valokuvien siirto Googlesta Eurooppaan - Pixelunion
 date: 2026-07-06
-categories: 
-  - "ict"
-  - "yleiset"
-tags: 
-  - "google-kuvat"
-  - "nextcloud"
-  - "pixelunion"
-  - "valokuvat"
-coverImage: "pixelunion.eu-sivusto.png"
+categories:
+  - ict
+  - yleiset
+tags:
+  - google-kuvat
+  - nextcloud
+  - pixelunion
+  - valokuvat
+  - _search
+coverImage: pixelunion.eu-sivusto.png
+layout: post
 ---
 
 Valokuvien siirto pois Google Kuvat -palvelusta on ollut itselläni jo pitkään suunnitteilla / pohdinnan alaisena. Tämä kaikki syystä, että haluan vähentää riippuvaisuutta etenkin amerikkalaisista ns. Big Tech -yrityksistä. Olin jo ottanut alkuvuodesta 2025 käyttööni eurooppalaisen Nextcloud-palvelun, sehän on eräänlainen vastine Google Drivelle. Nextcloudissa minulla on tiedostot ja siellä on mahdollisuus myös hallinnoida kuvia, tiedostojahan nekin ovat.
@@ -50,4 +52,3 @@ Pixelunionin verkkopalvelussa on kätevä kaksoiskappaleiden tunnistaminen. Olen
 
 Siirryn Google Kuvista pois, se on selvä. Nyt jää ratkaistavaksi käytänkö Nextcloudia vai Pixelunionia vain kenties sitten joskus se oma NAS. Nyt hetken käytettyäni Pixelunionia, olen siihen ainakin näin aluksi tyytyväinen.
 
-###### Fediversumi -reaktiot

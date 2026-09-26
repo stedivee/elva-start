@@ -1,12 +1,14 @@
 ---
-title: "Turku Sea Jazz 2026"
+title: Turku Sea Jazz 2026
 date: 2026-07-31
-categories: 
-  - "musiikki"
-tags: 
-  - "jazz"
-  - "turkuseajazz"
-coverImage: "turku-logo-1.png"
+categories:
+  - musiikki
+tags:
+  - jazz
+  - turkuseajazz
+  - _search
+coverImage: turku-logo-1.png
+layout: post
 ---
 
 Kuudetta kertaa peräkkäin Turku Sea Jazz -festareilla. Nämä ovat sellaiset pienet festarit, kun vertaa Pori Jazziin. Minulle Porin jazzit ovat menettäneet kiehtovuutensa. Lippujen hinnat ovat Porissa kovat ja jazz tuntuu välillä ajautuneen sivuraiteelle. On tullut viihdyttyä paremmin pienillä tapahtumilla kuten tämä Turku Sea Jazz, Porvoo Jazz Festival ja Helsingissä WeJazzin järjestämät jutut kuten ja Odysseys festivaali.
@@ -50,5 +52,3 @@ Toisena esiintyjänä Joyey Calderazzo yhtyeineen.
 **Donald Edwards** – rummut  
 
 Ihan mukavat oli kelit ja musiikki, ehkä taas ensi vuonna uudestaan.
-
-###### Fediversumi -reaktiot

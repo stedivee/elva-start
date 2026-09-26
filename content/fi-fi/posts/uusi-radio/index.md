@@ -1,13 +1,15 @@
 ---
-title: "Uusi radio"
+title: Uusi radio
 date: 2026-06-13
-categories: 
-  - "yleiset"
-tags: 
-  - "internetradio"
-  - "radio"
-  - "radiohelsinki"
-coverImage: "Imperial-DABMAB-i150-hybridiradio-scaled.jpg"
+categories:
+  - yleiset
+tags:
+  - internetradio
+  - radio
+  - radiohelsinki
+  - _search
+coverImage: Imperial-DABMAB-i150-hybridiradio-scaled.jpg
+layout: post
 ---
 
 Kyllä aamuhetkeen kuuluu radion kuuntelu. Vuositolkulla olemme aamiaispöydän antimien ääressä kuunnelleet keittiöradiosta Radio Helsinki -kanavaa ja vähän muutakin.
@@ -45,4 +47,3 @@ Internet-radiokanavan voi tuon valmiin listauksen lisäksi lisätä manuaalisest
 
 Nyt on pikavalinta ykkösessä striimi valmiina, eikun napin painallus ja kahvin keittoon!
 
-###### Fediversumi -reaktiot

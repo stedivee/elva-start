@@ -1,14 +1,16 @@
 ---
-title: "Jinx Run Pre-Party - keikka Liljendahlissa"
+title: Jinx Run Pre-Party - keikka Liljendahlissa
 date: 2026-06-27
-categories: 
-  - "musiikki"
-tags: 
-  - "bandi"
-  - "jinx-crow-mc"
-  - "keikat"
-  - "letsrumble"
-coverImage: "Jinx-Run-banneri-FBssa.png"
+categories:
+  - musiikki
+tags:
+  - bandi
+  - jinx-crow-mc
+  - keikat
+  - letsrumble
+  - _search
+coverImage: Jinx-Run-banneri-FBssa.png
+layout: post
 ---
 
 Oltiin **Let's Rumble** -kaveribändillä keikalla herttoniemeläisen prätkäkerhon maatilalla Liljendahlissa. Oikea kunnon kahden setin keikka. Saimme tämän kesän isomman keikan, kun käytiin viime marraskuussa ensin heidän klubillaan Helsingin Herttoniemen Erätorilla minikeikalla. Tykästyivät ja bookkasivat meidät kesälle Jinx Run -bileisiin.
@@ -141,4 +143,3 @@ Lisätäänpä loppuun vielä soittajat
 
 - Basso - Teuvo "Stedi" Väisänen
 
-###### Fediversumi -reaktiot

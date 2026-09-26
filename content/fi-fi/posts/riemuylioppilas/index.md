@@ -1,13 +1,16 @@
 ---
-title: "Riemuylioppilas"
+title: Riemuylioppilas
 date: 2026-05-31
-categories: 
-  - "yleiset"
-tags: 
-  - "heryk"
-  - "riemuylioppilas"
-  - "ylioppilas"
-coverImage: "Teuvo-Vaisanen-toukokuussa-2026-ja-1976.jpg"
+categories:
+  - yleiset
+tags:
+  - heryk
+  - riemuylioppilas
+  - ylioppilas
+  - _search
+coverImage: Teuvo-Vaisanen-toukokuussa-2026-ja-1976.jpg
+fmContentType: default
+layout: post
 ---
 
 Perjantaina 29.5.2026 kokoonnuimme vajaan kolmenkymmenen luokkakaverin voimin [Herttoniemen yhteiskoululle](https://www.heryk.fi/) viettämään riemuylioppilasjuhlaa. Riemuylioppilaaksi "pääsee", kun varsinaisesta ylioppilasjuhlasta on kulunut 50 vuotta.
@@ -32,5 +35,3 @@ Koulukierroksen ja opettajien tapaamisen jälkeen siirryimme paikalliseen ravint
 Varsinaisena uusien ylioppilaiden päivänä kaksi meistä riemuista oli koululla jakamassa riemuylioppilaiden stipendejä. Yksi tytölle ja yksi pojalle, heidät olivat opettajat valinneet.
 
 [Herttoniemen yhteiskoulun verkkosivut.](https://www.heryk.fi/)
-
-###### Fediversumi -reaktiot

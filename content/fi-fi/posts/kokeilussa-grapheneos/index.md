@@ -1,12 +1,14 @@
 ---
-title: "Kokeilussa GrapheneOS"
+title: Kokeilussa GrapheneOS
 date: 2026-09-06
-categories: 
-  - "ict"
-tags: 
-  - "grapheneos"
-  - "pixel"
-coverImage: "GrapheneOS_logo.png"
+categories:
+  - ict
+tags:
+  - grapheneos
+  - pixel
+  - _search
+coverImage: GrapheneOS_logo.png
+layout: post
 ---
 
 Sain takaisin lainassa olleen Pixel 6a -puhelimeni. Tämä mahdollistaa helpommin kokeilut GrapheneOS-käyttöjärjestelmän kanssa.
@@ -28,4 +30,3 @@ Näin muutaman tunnin leikkimisen jälkeen ei ole paljon kerrottavaa, ehkä huom
 
 Tutkittavaa tulee tulevalla viikolla lisää, sillä postissa on tulossa [Jolla C2-puhelin](https://teuvovaisanen.fi/2026/09/08/kokeilussa-jolla-c2-sailfishos-puhelin/).
 
-###### Fediversumi -reaktiot

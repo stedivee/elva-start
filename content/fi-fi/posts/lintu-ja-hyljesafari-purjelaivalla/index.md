@@ -1,14 +1,16 @@
 ---
-title: "Lintu- ja hyljesafari purjelaivalla"
+title: Lintu- ja hyljesafari purjelaivalla
 date: 2026-06-07
-categories: 
-  - "linnut"
-  - "veneily"
-tags: 
-  - "astrid"
-  - "linnut"
-  - "purjehdus"
-coverImage: "Astrid-Halkolaiturissa-scaled.jpg"
+categories:
+  - linnut
+  - veneily
+tags:
+  - astrid
+  - linnut
+  - purjehdus
+  - _search
+coverImage: Astrid-Halkolaiturissa-scaled.jpg
+layout: post
 ---
 
 Kesäkuun ensimmäinen sunnuntai tarjosi mukavan kokemuksen. Saimme vaimon kanssa lahjaksi pienen merimatkan Helsingin edustalle ulkomerelle. Vuonna 1947 Porvoon maakunnassa rakennettu [kaljaasi Astrid](https://purjelaiva.fi/maux-astrid) vei meidät lintuja ja hylkeitä etsimään ja katsomaan. Löytyihän niitä.
@@ -32,4 +34,3 @@ Päntäriltä matka jatkui kohti Harmajaa. Yli lensi pieni 12 yksilön sepelhanh
 Kaiken kaikkiaan onnistunut purjehdus. Onneksi otin kaukoputken mukaan kiikarien lisäksi.  
 Leppoisa opas Eero Haapanen oli mies paikallaan ja saatiinhan sitä kalakeittoa matkan aikana.
 
-###### Fediversumi -reaktiot
