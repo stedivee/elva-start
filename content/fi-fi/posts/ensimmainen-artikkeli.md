@@ -38,9 +38,9 @@ Tässä muutama syy:
 
 En missään nimessä halua mollata WordPressiä, olenhan sen parissa viihtynyt 20+ vuotta. Olen ohjelmiston ansiosta tienannut perheelleni toimeentuloa, sillä olihan WordPress-kurssit minulla koulutusrepertuaarissani. Niitä WP-kursseja tuli pidettyä muutamia kymmeniä niitäkin, ja muutamalle asiakkaalle olen rakentanut ja ylläpitänyt kokonaisia sivustoja, yhden verkkokaupankin. Olen myös ottanut WordPress-yhteisön toimintaan hieman osaa mm. muutamaan WordCamppiin vapaaehtoistyöntekijänä. Olen edelleen suomentaja muutamalle teemalle/lisäosalle. Mukavaa on ollut.
 
-Mutta nyt, en ole ollut työelämässä enää hetkeen, vaan eläkkeellä. En todellakaan enää pidä kursseja, vaikka se oli mahtavaa työtä. Ehkä voisin astua uusille poluille? Olen ollut jo vuosia  opiskelematta IT-juttuja, vaikka aiemmin se opiskelu kuului päivärutiineihin. Oli oltava ajantasalla, kun koulutti. Eläkkeelle päästyäni luovuin siitä "oravanpyörästä" ja olen suunnannut luontaisen opiskeluhaluni kaikenlaisiin muihin juttuihin, harrastuksiin, jotka odottivat hissukseen sitä omaa aikaa. Se oma aika tuli eläkkeellä. Nyt kuitenkin kiinnostuin uudestaan webbijutuista ja onhan tässä viime aikoina tullut siirryttyä Linuxiinkin. Kai minussa joku oppimisaddikti asuu? Kiinnostuksen kohteet vain vaihtelevat, usein liiankin vikkelään. En tahdo saada asioita loppuun, kun innostun uudesta asiasta.
+Mutta nyt, en ole ollut työelämässä enää hetkeen, vaan eläkkeellä. En todellakaan enää pidä kursseja, vaikka se oli mahtavaa työtä. Ehkä voisin astua uusille poluille? Olen ollut jo vuosia  opiskelematta IT-juttuja, vaikka aiemmin se opiskelu kuului päivärutiineihin. Oli oltava ajantasalla, kun koulutti. Eläkkeelle päästyäni luovuin siitä "oravanpyörästä" ja olen suunnannut luontaisen opiskeluhaluni kaikenlaisiin muihin juttuihin, harrastuksiin, jotka odottivat hissukseen sitä omaa aikaa. Se oma aika tuli eläkkeellä. Nyt kuitenkin kiinnostuin uudestaan webbijutuista ja onhan tässä viime aikoina tullut siirryttyä Linuxiinkin. Kai minussa joku oppimisaddikti asuu? Kiinnostuksen kohteet vain vaihtelevat, usein liiankin vikkelään. En tahdo saada asioita loppuun, kun jo innostun uudesta asiasta.
 
-Palataan eläkeukon jaarittelusta Eleventyyn. Se jotenkin vakuutti heti alusta lähtien. Olihan sille paljonkin vaihtoehtoja, mutta intuitio vei sen pariin. Nyt kun olen tutustunut sen filosofiaan, niin olen tyytyväinen intuitiooni. Eleventy rokkaa! Puhtaita HTML-sivuja ilman raskaita palveluita :)
+Palataan eläkeukon jaarittelusta Eleventyyn. Se jotenkin vakuutti heti alusta lähtien. Olihan sille paljonkin vaihtoehtoja, mutta intuitio vei sen pariin. Nyt kun olen tutustunut sen filosofiaan, niin olen tyytyväinen intuitiooni. Eleventy rokkaa! Puhtaita HTML-sivuja ilman raskaita palveluita taustalla :)
 
 Minulla on nyt leikkeihini/opiskeluun oma hiekkalaatikko [stedi.rocks](https://stedi.rocks) Sivusto asustelee [statischost.eu](https://statichost.eu)-palveluntarjoajalla, jossa todella ystävällinen yrittäjä opasti minut alkuun Jamstack-tyyppiseen julkaisuun, tai siis siihen, että sain konffattua Githubin ja ko. palvelun kytköksen oikein. Eihän se monimutkaista ollut, mutta kun ensi kertaa tekee, niin on oppimiskäyrää. 
 
@@ -48,7 +48,7 @@ Minulla on nyt leikkeihini/opiskeluun oma hiekkalaatikko [stedi.rocks](https://s
 Niin, jospa olisikin vain tämä Eleventy ja se Elva opiskeltavana, mutta olen ottanut kunnon klöntin uusia asioita aivoilleni pureskeltavaksi. 
 
 - Markdown
-- Front Matter 
+- Front Matter / Front Matter CMS
 - Minulle viime vuosien uudet HTML, CSS ja JavaScript -asiat 
 - Git (Github ja Codeberg)
 - Visual Studio Code ja VSCodium 
