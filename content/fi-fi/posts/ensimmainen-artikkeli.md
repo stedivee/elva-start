@@ -42,7 +42,7 @@ Mutta nyt, en ole ollut työelämässä enää hetkeen, vaan eläkkeellä. En to
 
 Palataan eläkeukon jaarittelusta Eleventyyn. Se jotenkin vakuutti heti alusta lähtien. Olihan sille paljonkin vaihtoehtoja, mutta intuitio vei sen pariin. Nyt kun olen tutustunut sen filosofiaan, niin olen tyytyväinen intuitiooni. Eleventy rokkaa! 
 
-Minulla on nyt leikkeihini/opiskeluun oma hiekkalaatikko [stedi.rocks](https://stedi.rocks) Sivusto asuu [statischost.eu](https://statichost.eu)-palveluntarjoajalla, jossa todella ystävällinen yrittäjä opasti minut alkuun Jamstack-tyyppiseen julkaisuun, tai siis siihen, että sain konffattua Githubin ja ko. palvelun kytköksen oikein. Eihän se monimutkaista ollut, mutta kun ensi kertaa tekee, niin on oppimiskäyrää. 
+Minulla on nyt leikkeihini/opiskeluun oma hiekkalaatikko [stedi.rocks](https://stedi.rocks) Sivusto asustelee [statischost.eu](https://statichost.eu)-palveluntarjoajalla, jossa todella ystävällinen yrittäjä opasti minut alkuun Jamstack-tyyppiseen julkaisuun, tai siis siihen, että sain konffattua Githubin ja ko. palvelun kytköksen oikein. Eihän se monimutkaista ollut, mutta kun ensi kertaa tekee, niin on oppimiskäyrää. 
 
 ### Muutakin opeteltavaa riittää ##
 Niin, jospa olisikin vain tämä Eleventy ja se Elva opiskeltavana, mutta olen ottanut kunnon klöntin uusia asioita aivoilleni pureskeltavaksi. 
