@@ -174,7 +174,8 @@ p:has(> picture) {
 h1,
 h2,
 h3 {
-  max-width: 20ch;
+  /* max-width: 20ch; */
+  max-width:40ch;
 }
 
 mark {
